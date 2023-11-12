@@ -9,6 +9,21 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:satu_fasilkomti/main.dart';
+import 'package:satu_fasilkomti/mahasiswa.dart';
+import 'package:satu_fasilkomti/main.dart';
+import 'package:satu_fasilkomti/search_page.dart';
+import 'package:flutter/material.dart';
+import 'mahasiswa.dart';
+
+import 'package:flutter/material.dart';
+import 'mahasiswa.dart';
+import 'profile_page.dart';
+
+import 'package:flutter/material.dart';
+import 'mahasiswa.dart';
+
+import 'package:flutter/material.dart';
+import 'search_page.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
